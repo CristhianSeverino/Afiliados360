@@ -10,7 +10,7 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
     consolidando 3 tablas con mas de **100.000** Filas cada uno.
   * Informe de investigacion para diseño del data set, acode al modelo de negocio de la empresa simulada (*Confa*).
   * Informe ejecutivo ETL.
-  * Informe BI en Looker Studio. MVP.
+  * Informe BI en Looker Studio. MVP. https://lookerstudio.google.com/reporting/398053f5-14b8-4c88-a3b3-9833252a532b
   * Inforrme BI en Power BI. MVP.
   * Diagrama Entidad Relación de la Arquitectura de datos.
   * Diagrama del Pipeline de Datos.
