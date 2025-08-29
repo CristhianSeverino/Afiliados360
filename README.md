@@ -16,3 +16,7 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   * Diagrama del Pipeline de Datos.
 
 La Rama *En Proceso* Se refiere a los documentos, scripts, soluciones BI. Que se encuentran en Construcción.
+
+**Data sets Finales:**
+1. Summary 360 Afiliados COP Format.csv
+2. Sumary 360 Afiliados Big INT.csv
