@@ -15,6 +15,13 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   * Diagrama Entidad Relación de la Arquitectura de datos.
   * Diagrama del Pipeline de Datos.
 
+**Proximamente:**
+
+  * EDA con Pandas y Polars.
+  * Ml Predictivo Demanda neta de servicios y subsidios.
+  * Rag Q/A para Bi.
+  * Bi Estrategico.
+ 
 La Rama *En Proceso* Se refiere a los documentos, scripts, soluciones BI. Que se encuentran en Construcción.
 
 **Data sets Finales:**
