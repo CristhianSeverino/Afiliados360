@@ -14,14 +14,17 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   * Inforrme BI en Power BI. MVP.
   * Diagrama Entidad Relación de la Arquitectura de datos.
   * Diagrama del Pipeline de Datos.
+  * EDA con Pandas
+  * Feature Engeninering con Pandas.
+  * Alimentación del Bucket ETL
+  * Informe Dashboard de BI Estrategico en Loocker: https://lookerstudio.google.com/reporting/b098de05-c2f8-44eb-8b12-442fe1f3e046
 
 **Proximamente:**
 
-  * EDA con Pandas y Polars.
-  * Ml Predictivo Demanda neta de servicios y subsidios.
-  * Rag Q/A para Bi.
-  * Bi Estrategico.
- 
+
+  * Ml Predictivo Demanda neta de servicios y subsidios. Status -En Espera
+  * Rag Q/A para Bi. Status - En proceso
+  
 La Rama *En Proceso* Se refiere a los documentos, scripts, soluciones BI. Que se encuentran en Construcción.
 
 **Data sets Finales:**
