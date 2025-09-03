@@ -2,7 +2,7 @@
 En este repositorio encontrara todos los elementos y documentos del proyecto Afiliados 360.
 **DataEngenierig And DataScienceProject**
 
-**En este proyecto encontrara:**
+## **En este proyecto encontrara:** ☕
 
   * RoadMap.
   * Diagrama de Pipeline de Datos.
@@ -17,9 +17,15 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   * EDA con Pandas
   * Feature Engeninering con Pandas.
   * Alimentación del Bucket ETL
-  * Informe Dashboard de BI Estrategico en Loocker: https://lookerstudio.google.com/reporting/b098de05-c2f8-44eb-8b12-442fe1f3e046
+  * Informe Dashboard de BI Estrategico en Loocker.
 
-**Proximamente:**
+# **Producto Final:**🦾
+
+* Informe Estrategico BI: https://lookerstudio.google.com/reporting/b098de05-c2f8-44eb-8b12-442fe1f3e046
+* Road Map.
+* Datasets Feature Egineer Bucket Transform.
+
+# **Proximamente:**☕
 
 
   * Ml Predictivo Demanda neta de servicios y subsidios. Status -En Espera
@@ -27,6 +33,9 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   
 La Rama *En Proceso* Se refiere a los documentos, scripts, soluciones BI. Que se encuentran en Construcción.
 
-**Data sets Finales:**
+**Data sets:**
 1. Summary 360 Afiliados COP Format.csv
 2. Sumary 360 Afiliados Big INT.csv
+3. Estrategico_df.csv
+
+## **Diviertete Explorando Este proyecto**
