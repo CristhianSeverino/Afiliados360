@@ -1,5 +1,10 @@
 # Afiliados360
 En este repositorio encontrara todos los elementos y documentos del proyecto Afiliados 360.
+Este proycto fue creado emulando la naturaleza del modelo de negocio de Confa Caldas. Admiro su labor empresarial y me ispire e ellos. apra este proyecto que recrea un proyecto de data end to end. 
+
+**Actualmente estoy trabajando en una actualizacion incluyendo la integracion de AWS lamda y AWS redshift en el proyecto**
+*Esto Puede Modificar el road Map y otras seciones. en proximos comits seran actualizados*
+
 **DataEngenierig And DataScienceProject**
 
 ## **En este proyecto encontrara:** ☕
