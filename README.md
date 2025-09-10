@@ -19,13 +19,13 @@ En este repositorio encontrara todos los elementos y documentos del proyecto Afi
   * Alimentación del Bucket ETL
   * Informe Dashboard de BI Estrategico en Loocker.
 
-# **Producto Final:**🦾
+## Producto Final:🦾
 
 * Informe Estrategico BI: https://lookerstudio.google.com/reporting/b098de05-c2f8-44eb-8b12-442fe1f3e046
 * Road Map.
 * Datasets Feature Egineer Bucket Transform.
 
-# **Proximamente:**☕
+# Proximamente:☕
 
 
   * Ml Predictivo Demanda neta de servicios y subsidios. Status -En Espera
@@ -38,4 +38,4 @@ La Rama *En Proceso* Se refiere a los documentos, scripts, soluciones BI. Que se
 2. Sumary 360 Afiliados Big INT.csv
 3. Estrategico_df.csv
 
-## **Diviertete Explorando Este proyecto**
+## Diviertete Explorando Este proyecto
